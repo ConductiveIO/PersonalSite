@@ -25,9 +25,10 @@
       <div>
         <div id="chiclets">
           <p>[
-            <a href="//twitter.com/code_pig"><img src="img/icons/twitter.png"></a>
-            <a href="//linkedin.com/in/robbygrodin"><img src="img/icons/linkedin.png"></a>
-            <a href="//github.com/conductiveio"><img src="img/icons/github.png"></a>
+            <a href="//twitter.com/code_pig"><img src="img/icons/twitter.png" class="chiclet"></a>
+            <a href="//linkedin.com/in/robbygrodin"><img src="img/icons/linkedin.png" class="chiclet"></a>
+            <a href="mailto:grodin.robby@gmail.com"><img src="img/icons/email.png" class="chiclet"></a>
+            <a href="//github.com/conductiveio"><img src="img/icons/github.png" class="chiclet"></a>
          ]</p>
         </div>
       </div>
